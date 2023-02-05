@@ -1,0 +1,68 @@
+
+.manu .color {
+    color: #3576f9;
+    padding-right: 40px;
+} 
+
+/*   img Section   */
+
+.img-section p{
+    margin-bottom: 250px;
+}
+
+
+/*   Blockquote Section   */
+
+.blockquote-section {
+    margin-top: 60px;
+}
+.img-blackquote img {
+    max-width: 100%;
+}
+          
+/*   Table Section  */
+
+.table-section h2{
+    padding-top: 20px;
+    color: rgb(14, 150, 50);
+}
+
+/*   Card And progress Section  */
+
+.card-section h2{
+    padding-top: 20px;
+    color: rgb(14, 150, 50);
+    text-align: center;
+}
+
+/*   Service Section   */
+
+.service {
+    background-color: hsl(221, 44%, 90%);
+}
+.service h2 {
+    padding-top: 20px;
+    color: rgb(14, 150, 50);
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+.service .nav{
+    text-align: center;
+}
+.nav-section{
+   display: flex;
+   justify-content: center;
+}
+
+/*    Footer Section   */
+
+.footer{
+    background-color: rgb(27, 26, 26);
+}
+.footer p {
+    color: #ffff;
+    text-align: center;
+    padding-top: 30px;
+    font-size: 25px;
+}
